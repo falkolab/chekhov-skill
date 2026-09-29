@@ -1,0 +1,5 @@
+{
+  "port": 8080,
+  "page_size": 20,
+  "db": "shop.sqlite",
+}
